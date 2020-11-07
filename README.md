@@ -26,6 +26,6 @@ npm test
 npm run storybook
 ```
 
-!(https://github.com/Sonpet1978/sheduler/blob/master/docs/Booking%20Interview.png)
+![One](https://github.com/Sonpet1978/sheduler/blob/master/docs/Booking%20Interview.png)
 
 
