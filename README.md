@@ -1,5 +1,9 @@
 # Interview Scheduler
 
+The LHL Interview Scheduler is a React single page application. The application allows to enter students names, choose interviewers and book appointments for the selected time slot of th day.
+
+The application runs on a PostgreSQL database.
+
 ## Setup
 
 Install dependencies with `npm install`.
@@ -21,3 +25,7 @@ npm test
 ```sh
 npm run storybook
 ```
+
+!(https://github.com/Sonpet1978/sheduler/blob/master/docs/Booking%20Interview.png)
+
+
