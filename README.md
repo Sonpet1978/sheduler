@@ -28,4 +28,8 @@ npm run storybook
 
 ![One](https://github.com/Sonpet1978/sheduler/blob/master/docs/Booking%20Interview.png)
 
+![One](https://github.com/Sonpet1978/sheduler/blob/master/docs/Empty%20screen.png)
+
+![One](https://github.com/Sonpet1978/sheduler/blob/master/docs/booked%20Interview.png)
+
 
